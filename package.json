@@ -1,0 +1,24 @@
+{
+  "name": "convoy-shooter",
+  "version": "1.0.0",
+  "description": "A 3D third-person convoy defense game built with Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "game",
+    "three.js",
+    "3d",
+    "shooter",
+    "convoy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
